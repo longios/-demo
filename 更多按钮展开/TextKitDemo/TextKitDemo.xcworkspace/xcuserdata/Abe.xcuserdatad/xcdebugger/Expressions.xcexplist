@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MoreTextLbl addCoverIfNeeded]:MoreTextLbl.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.attrStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MoreTextLbl addPackupviewIfNeededWithSize:packupsize:]:MoreTextLbl.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastcharset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
